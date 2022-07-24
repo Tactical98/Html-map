@@ -1,0 +1,124 @@
+#design {
+        padding: 2px;
+        position: relative;
+    }
+        .mytea{
+            width: 400px;
+            height: 300px;
+            position: absolute;
+            top: 5px;
+            left: 470px;
+           
+        }
+        .notepad{
+            width: 400px;
+            height: 300px;
+            position: absolute;
+            top: 315px;
+            left: 50px;
+        }
+        .environ{
+            width: 400px;
+            height: 300px;
+            position: absolute;
+            top: 315px;
+            left: 900px;
+        
+        }
+        .laptop{
+            width: 400px;
+            height: 350px;
+            position: absolute;
+            top: 600px;
+            bottom: 200px;
+            left: 470px;
+
+        }
+        .index{
+            position: relative;
+            margin: 0px;
+        }
+        .first{
+            width: 400px;
+            height: 350px;
+            /* margin-top: 1200px; */
+            z-index: 2;
+            position: absolute;
+            top: 1100px;
+            left: 400px;
+
+        }
+        .second{
+            width: 400px;
+            height: 350px;
+            z-index: 3;
+            position: absolute;
+            top: 1300px;
+            left: 600px;
+        
+
+        }
+        .third{
+            width: 400px;
+            height: 350px;
+            z-index: 5;
+            position: absolute;
+            top: 1500px;
+            left: 800px;
+            
+
+        }
+        .fourth{
+            width: 400px;
+            height: 350px;
+            z-index: 7;
+            position: absolute;
+            top: 1700px;
+            left: 1000px;
+
+        }
+        .index2{
+            position: relative;
+        }
+        .yes{
+            position: absolute;
+            width: 400px;
+            height: 350px;
+            z-index: 2;
+            top: 1100px;
+            left: 2500px;
+
+        }
+        .no{
+            width: 400px;
+            height: 350px;
+            z-index: 3;
+            position: absolute;
+            top: 1300px;
+            left: 2300px;
+
+        }
+        .ask{
+            width: 400px;
+            height: 350px;
+            z-index: 5;
+            position: absolute;
+            top: 1500px;
+            left: 2100px;
+            
+
+        }
+        .take{
+            width: 400px;
+            height: 350px;
+            z-index: 7;
+            position: absolute;
+            top: 1700px;
+            left: 1900px;
+
+        }
+        
+
+        
+
+    
